@@ -2,10 +2,11 @@
 *** CSCI70700 - CS Methods
 *** Flask Assignment - Web Page
 *** Created in Replit.com
-
+***
+***
 *** [Link to Repl with Code](https://replit.com/@Halseyjhs/My-Dog-Page-in-Flask#main.py)
-
-*** [index](https://My-Dog-Page-in-Flask.halseyjhs.repl.co/index)
+***
+***
 *** [My Dog Page](https://My-Dog-Page-in-Flask.halseyjhs.repl.co/about)
 *** [Pictures of my Dog](https://My-Dog-Page-in-Flask.halseyjhs.repl.co/pattisdogs)
 *** [Lucky Number](https://My-Dog-Page-in-Flask.halseyjhs.repl.co/lucky)
