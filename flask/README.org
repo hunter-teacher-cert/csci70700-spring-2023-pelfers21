@@ -17,6 +17,6 @@
 ***
 *** [My Dog Page](https://My-Dog-Page-in-Flask.halseyjhs.repl.co/about)
 *** [Pictures of my Dog](https://My-Dog-Page-in-Flask.halseyjhs.repl.co/pattisdogs)
-*** [Lucky Number](https://My-Dog-Page-in-Flask.halseyjhs.repl.co/lucky)
+*** [Lucky Number](https://My-Dog-Page-in-Flask.halseyjhs.repl.co/luckydog)
 
 *
