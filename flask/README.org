@@ -2,6 +2,14 @@
 *** CSCI70700 - CS Methods
 *** Flask Assignment - Web Page
 *** Created in Replit.com
+
+** Homework from Flask 2 Assignment - DUE 3/2
+[Link to Repl with Code](https://replit.com/@Halseyjhs/My-Dog-Page-in-Flask#templates/about.html) -  The "pattisdogs page has session for visits to the page.  The luckydog page was updated to fix lucky pick with dog and breed of dog.  The breedlist page has the form that is required for this assignment.
+*** about.html - is the main page with links to other pages https://My-Dog-Page-in-Flask.halseyjhs.repl.co/about
+*** breedlist.html - is the form created https://My-Dog-Page-in-Flask.halseyjhs.repl.co/breedlist
+*** pattisdogs.html - is the page with pictures of my dogs - https://My-Dog-Page-in-Flask.halseyjhs.repl.co/pattisdogs
+*** luckydog.html - is the page that you can keep loading for a new number that will determine what dog breed you should consider - https://My-Dog-Page-in-Flask.halseyjhs.repl.co/luckydog 
+
 ***
 *** Homework from First Flask Assignment DUE 2/16
 *** [Link to Repl with Code](https://replit.com/@Halseyjhs/My-Dog-Page-in-Flask#main.py)
@@ -11,6 +19,4 @@
 *** [Pictures of my Dog](https://My-Dog-Page-in-Flask.halseyjhs.repl.co/pattisdogs)
 *** [Lucky Number](https://My-Dog-Page-in-Flask.halseyjhs.repl.co/lucky)
 
-*** Homework from Flask 2 Assignment - DUE 3/2
-[Link to Repl with Code](https://replit.com/@Halseyjhs/My-Dog-Page-in-Flask#templates/about.html) -  The "pattisdogs page has session for visits to the page.  The luckydog page was updated to fix lucky pick with dog and breed of dog.  The breedlist page has the form that is required for this assignment.
-
+*
